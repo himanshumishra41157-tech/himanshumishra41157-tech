@@ -48,19 +48,19 @@
 
 ---
 
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00f0ff/himanshumishra41157-tech" alt="Himanshu's Github Contribution Graph" width="100%" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshumishra41157-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumishra41157-tech&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshumishra41157-tech&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
