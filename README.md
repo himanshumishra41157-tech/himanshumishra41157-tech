@@ -10,6 +10,7 @@
 
 <!-- Social Links -->
 <p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:himanshumishra41157@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/himanshumishra41157-tech"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
@@ -22,7 +23,7 @@
 - 🚀 **Core Focus:** Building Full-Stack Software with **AI Integration, LLMs & Web Frameworks**
 - 🛡️ **Cybersecurity & Systems:** Hands-on experience with **Kali Linux**, Pentesting & System Security
 - 💼 **Freelancing:** Available for Web Development, AI Tools & Security Projects
-- 💬 **Ask me about:** Python, FastAPI, React, Linux Commands & Web Apps
+- 💬 **Ask me about:** Python, FastAPI, Streamlit, Linux Commands & Web Apps
 
 ---
 
@@ -31,8 +32,7 @@
 | Repository | Description | Tech Stack | Code Link |
 | :--- | :--- | :--- | :--- |
 | 🌾 **kisan-saathi** | RAG-based Agricultural AI web application. | `Python` `Streamlit` `Gemini API` | [Repo 🔗](https://github.com/himanshumishra41157-tech/kisan-saathi) |
-| 🤖 **python-mark-xli** | Desktop AI voice assistant project running on Linux. | `Python` `Ollama` `Linux` | [Repo 🔗](https://github.com/himanshumishra41157-tech/python-mark-xli) |
-| 🏠 **homonix** | Web platform for home services with role-based dashboard. | `JavaScript` `React` `HTML/CSS` | [Repo 🔗](https://github.com/himanshumishra41157-tech/homonix) |
+| 🏠 **homonix** | Web platform for home services with role-based dashboard. | `HTML/CSS` `Supabase` | [Repo 🔗](https://github.com/himanshumishra41157-tech/homonix) |
 | 🛡️ **INFRAGuardAI** | AI-driven infrastructure security & monitoring project. | `Python` `Security` | [Repo 🔗](https://github.com/himanshumishra41157-tech/INFRAGuardAI) |
 
 ---
@@ -43,9 +43,11 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 
 **Hosting, Deployment & Cloud:**  
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
