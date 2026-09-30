@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Himanshu Mishra</h1>
-<h3 align="center">AI & Data Science Student | Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">AI & DS Student | Software & AI Integration Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&center=true&vcenter=true&width=480&lines=AI+%26+Data+Science+Engineering+Student;Building+Full-Stack+%26+AI+Applications;Exploring+Ethical+Hacking+%26+Kali+Linux;Open+Source+%26+Freelance+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&center=true&vcenter=true&width=500&lines=Software+%26+AI+Integration+Developer;AI+%26+Data+Science+Engineering+Student;Building+LLM+%26+Smart+Full-Stack+Apps;Exploring+Ethical+Hacking+%26+Kali+Linux" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 💫 About Me
-- 🎓 **B.Tech Student (AI & Data Science)** passionate about AI, Machine Learning & Development
-- 💻 Building **Full-Stack Web Apps & AI Solutions** (Python, React, FastAPI)
-- 🛡️ Exploring **Ethical Hacking, Kali Linux & Cybersecurity**
-- 🤖 Interested in **Data Science, Machine Learning & Intelligent Systems**
-- 💼 Available for **Freelance Projects & Tech Collaborations**
+- 🎓 **B.Tech Student in AI & Data Science**
+- 🚀 Major Focus: **Software Development & AI Integration** (Integrating LLMs, AI APIs, RAG & Voice Assistants)
+- 💻 Building **Full-Stack Web Applications** with modern frameworks (Python, FastAPI, Streamlit, React)
+- 🛡️ Enthusiastic about **Cybersecurity, Ethical Hacking & Kali Linux**
+- 💼 Available for **Freelance Projects, AI Solutions & Tech Collaborations**
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-**Programming & Web:**
+**Programming, Web & AI Stack:**
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 **OS, Security & Freelancing:**
