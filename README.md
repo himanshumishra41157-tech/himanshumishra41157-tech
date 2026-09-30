@@ -18,66 +18,14 @@
 
 ### ⚡ About Me
 
-- 🎓 **Student:** B.Tech in Artificial Intelligence & Data Science Engineering
-- 🚀 **Core Focus:** Building Full-Stack Software with **AI Integration, LLMs & Web Frameworks**
-- 🛡️ **Cybersecurity & Systems:** Hands-on experience with **Kali Linux**, Pentesting & System Security
-- 💼 **Freelancing:** Available for Web Development, AI Tools & Security Projects
-- 💬 **Ask me about:** Python, FastAPI, React, Linux Commands & Web Apps
+> *"Building intelligent software at the intersection of AI, Web Technologies, and Cyber Security."*
 
----
-
-### 🚀 Public Repositories & Projects
-
-| Repository | Description | Tech Stack | Code Link |
-| :--- | :--- | :--- | :--- |
-| 🌾 **kisan-saathi** | RAG-based Agricultural AI web application. | `Python` `Streamlit` `Gemini API` | [Repo 🔗](https://github.com/himanshumishra41157-tech/kisan-saathi) |
-| 🤖 **python-mark-xli** | Desktop AI voice assistant project running on Linux. | `Python` `Ollama` `Linux` | [Repo 🔗](https://github.com/himanshumishra41157-tech/python-mark-xli) |
-| 🏠 **homonix** | Web platform for home services with role-based dashboard. | `JavaScript` `React` `HTML/CSS` | [Repo 🔗](https://github.com/himanshumishra41157-tech/homonix) |
-| 🛡️ **INFRAGuardAI** | AI-driven infrastructure security & monitoring project. | `Python` `Security` | [Repo 🔗](https://github.com/himanshumishra41157-tech/INFRAGuardAI) |
-
----
-
-### 🛠️ Tech Stack & Badges
-
-**Programming & Web:**  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-**Hosting, Deployment & Cloud:**  
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
-
-**OS, Security & Tools:**  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=flat-square&logo=hackthebox&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Freelance](https://img.shields.io/badge/Freelance-29B2FE?style=flat-square&logo=freelancer&logoColor=white)](#)
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshumishra41157-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumishra41157-tech&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumishra41157-tech&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshumishra41157-tech&color=00f0ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│  👋  Himanshu Mishra | AI & Data Science Engineering Undergrad        │
+├────────────────────────────────────────────────────────────────────────┤
+│  🧠  AI Integrator    : Merging GenAI, RAG Architectures & APIs        │
+│  💻  Software Dev     : Crafting Full-Stack Tools (FastAPI, Streamlit) │
+│  🛡️  Cybersecurity   : Kali Linux Daily Driver & Pentesting Fanatic   │
+│  🚀  Freelancer       : Open for Custom AI Tools & Web Applications    │
+└────────────────────────────────────────────────────────────────────────┘
