@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>B.Tech AI & Data Science Student | Software & AI Integration Developer | Cybersecurity Enthusiast</b>
+  <b>B.Tech AI & Data Science Student | Software & AI Integration Developer | Cybersecurity & Chess Enthusiast</b>
 </p>
 
 <!-- Social Links -->
@@ -22,6 +22,7 @@
 - 🎓 **Student:** B.Tech in Artificial Intelligence & Data Science Engineering
 - 🚀 **Core Focus:** Building Full-Stack Software with **AI Integration, LLMs & Web Frameworks**
 - 🛡️ **Cybersecurity & Systems:** Hands-on experience with **Kali Linux**, Pentesting & System Security
+- ♟️ **Sports & Hobbies:** Passionate **Chess** Player (Strategy & Tactical Gaming)
 - 💼 **Freelancing:** Available for Web Development, AI Tools & Security Projects
 - 💬 **Ask me about:** Python, FastAPI, Streamlit, Linux Commands & Web Apps
 
@@ -59,6 +60,9 @@
 [![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=flat-square&logo=hackthebox&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Freelance](https://img.shields.io/badge/Freelance-29B2FE?style=flat-square&logo=freelancer&logoColor=white)](#)
+
+**Sports & Interests:**  
+[![Chess](https://img.shields.io/badge/Chess-000000?style=flat-square&logo=lichess&logoColor=white)](#)
 
 ---
 
